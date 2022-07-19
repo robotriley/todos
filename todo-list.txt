@@ -1,2 +1,3 @@
 TO-DO LIST
 1. Complete 'Intro To React' module on Canvas
+2. Complete 'Intro to Git' module from Phase 1 on Canvas
